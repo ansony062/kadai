@@ -64,6 +64,7 @@ header{
   font-size: 5px;
   color: white;
   background-color: #FF9A4B;
+  position: absolute;
 }
 
 footer{
@@ -76,32 +77,32 @@ footer{
 
 
 @media screen and (max-width: 768px){
-  
+
   .main-visual{
     width: 100%;
     padding: 40px 0;
   }
-  
+
   .main-box{
     width: 90%;
     margin: 10px 0;
     display: block;
   }
-  
+
   .box-item1{
     background-size: cover;
     background-position: center;
   }
-  
+
   .box-item2{
     background-size: cover;
     background-position: center;
   }
-  
+
   .box-item3{
     background-size: cover;
     background-position: center;
   }
-  
-  
+
+
 }
